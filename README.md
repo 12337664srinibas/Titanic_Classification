@@ -20,27 +20,7 @@ Embarked (Port of Embarkation)
 Survived (Target variable)
 You can find the dataset here from the Kaggle competition.
 
-3. Project Structure
-bash
-Copy code
-Titanic-Classification/
-│
-├── data/                  # Folder containing the dataset
-│   └── train.csv
-│   └── test.csv
-│
-├── notebooks/             # Jupyter notebooks for data analysis and modeling
-│   └── EDA.ipynb          # Exploratory Data Analysis
-│   └── model.ipynb        # Model training and evaluation
-│
-├── src/                   # Python scripts for preprocessing and model building
-│   └── preprocessing.py
-│   └── train_model.py
-│   └── predict.py
-│
-├── README.md              # Project documentation (this file)
-├── requirements.txt       # Python dependencies
-└── model.pkl              # Trained model file
+
 4. Getting Started
 Prerequisites
 Python 3.x
